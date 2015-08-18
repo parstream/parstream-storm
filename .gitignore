@@ -1,0 +1,11 @@
+# maven build
+target/
+dependency-reduced-pom.xml
+
+# eclipse IDE
+.checkstyle
+.classpath
+.project
+.metadata/
+.recommenders/
+.settings/
